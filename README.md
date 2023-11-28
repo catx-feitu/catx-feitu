@@ -52,7 +52,7 @@
 
 2023-7-? 重返Minecraft纪圈 开启新的圈钱道路 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *完全有成为dev的能力,但...*   *严重批评圈钱神雨露*
 
-2023-8-? Google 启动! &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *我的+86手机至于能注册Google了...*
+2023-8-? Google 启动!
 
 2023-8-29 在「零都市」服务器内进行r交圈钱 (帮凶)
 
