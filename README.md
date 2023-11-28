@@ -1,7 +1,5 @@
 <h1 align="center">Hello.I'm CatX_feitu.</h1>
 
-![2fb26de071610a560febf6aa94368218](https://github.com/catx-feitu/catx-feitu/assets/108512490/cbabfa2a-8729-451d-9b9c-68d23b50cfe1)
-
 ???? `CatX_feitu CatX_feitu = new CatX_feitu ();` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *自身实例创建时间无法被追溯*  
 
 ???? `core.connect ("earth_ol",25565);` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *实际登陆地球OL时间无法被追溯*  
