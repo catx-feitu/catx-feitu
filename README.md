@@ -28,15 +28,13 @@
 
 <br>
 
-其它:
-
--[X] VMOS Pro 永久会员
--[X] MT管理器 永久会员
--[X] QQ 年费大会员
--[X] REG007正是用户
--[X] SCP-Wiki 用户
--[ ] moonaurora 月下极光服务器 - 前管理员/副腐竹
--[ ] Telegram premium (DELETE ACCOUNT:1 year,used 7 day)
+- [X] VMOS Pro 永久会员
+- [X] MT管理器 永久会员
+- [X] QQ 年费大会员
+- [X] REG007正是用户
+- [X] SCP-Wiki 用户
+- [ ] moonaurora 月下极光服务器 - 前管理员/副腐竹
+- [ ] Telegram premium (DELETE ACCOUNT:1 year,used 7 day)
 
 <br>
 
