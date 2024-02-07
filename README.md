@@ -1,5 +1,11 @@
 <h1 align="center">Hello.I'm CatX_feitu.</h1>
 
+「 梦醒爱悄然落空 」
+
+失恋  但早已习惯
+
+<br>
+
 你好，我是CatX_feitu，是一只可爱的猫耳少女！
 
 怎么说咱也是在`Minecraft挂圈`,`开户圈`,`点号圈`,`IDC圈`混过的喵喵啦
