@@ -99,6 +99,11 @@
 
 2024-1-15 想了个新的个签「 愿在看破世间本质之时，仍能保持当初的纯真 」 (自己给自己提交pull request且没有通过版)
 
+2024-1-24 [Coze-Discord-Proxy](https://github.com/catx-feitu/Coze-Discord-Bridge) First commit!
+
+2024-2-9 找了个男朋友 (?) -> 实际上是普通朋友
+
+2024-2-14 [DarkNya](https://github.com/catx-feitu/DarkNya/) 第一个Minecraft基于Liquidbounce base自写端
 
 <br>
 
