@@ -2,9 +2,9 @@
 
 <br>
 
-![给小学生安装奶酪客户端](https://www.bilibili.com/video/BV1i2421T74X/)
+[给小学生安装奶酪客户端](https://www.bilibili.com/video/BV1i2421T74X/)
 
-![奶酪内部](https://www.bilibili.com/video/BV1Wy421v7Wq/)
+[奶酪内部](https://www.bilibili.com/video/BV1Wy421v7Wq/)
 
 <br>
 
