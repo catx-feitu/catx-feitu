@@ -1,4 +1,4 @@
-![孩子你唯一的作用就是回家种地1](https://github.com/catx-feitu/catx-feitu/assets/108512490/de1e1200-4143-4cfe-8b0e-137caf601353)
+﻿![孩子你唯一的作用就是回家种地1](https://github.com/catx-feitu/catx-feitu/assets/108512490/de1e1200-4143-4cfe-8b0e-137caf601353)
 
 ![孩子你唯一的作用就是回家种地2](https://github.com/catx-feitu/catx-feitu/assets/108512490/e983eaba-335c-4dc7-873a-2f5d10561df7)
 
@@ -11,5 +11,4 @@
 <br>
 
 ![孩子你无敌了](https://github.com/catx-feitu/catx-feitu/assets/108512490/a671c58c-89d8-4445-b571-59d837e98986)
-
 
