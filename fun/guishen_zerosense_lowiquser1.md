@@ -1,4 +1,4 @@
-![LowIQ1](https://github.com/catx-feitu/catx-feitu/assets/108512490/2a48a09d-3f6e-48a6-b94b-a95007b5b725)
+﻿![LowIQ1](https://github.com/catx-feitu/catx-feitu/assets/108512490/2a48a09d-3f6e-48a6-b94b-a95007b5b725)
 
 ![LowIQ2](https://github.com/catx-feitu/catx-feitu/assets/108512490/29155ea8-b950-4529-8b5d-2949d2ef5725)
 
